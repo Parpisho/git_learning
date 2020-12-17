@@ -1,0 +1,2 @@
+git --version		to figure out which version of git you are using
+git clone		   to clone your repository to your machine

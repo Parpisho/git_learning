@@ -4,4 +4,5 @@ git status          to check what changes were made to the current directory
 git add  			to add the file to git
 git commit -m "comment" filename      to commit the changes to git with comment
 git push          to save your commitment to GitHub
-git log
+git log			  to check all commits
+git diff  			  to check what changes were made to the file
